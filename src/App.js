@@ -1,6 +1,9 @@
+import Calc from "./component/calc";
+
 function App() {
   return (
     <>
+    <Calc />
     </>
   );
 }
